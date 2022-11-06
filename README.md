@@ -12,3 +12,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandroS22&hide_border=true&theme=dark&show_icons=true" alt="SandroS22"/>
 </p>
 <hr />
+
+![Snake animation](https://github.com/SandroS22/SandroS22/blob/output/github-contribution-grid-snake.svg)
