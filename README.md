@@ -9,6 +9,6 @@
 <br/>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandroS22&count_private=true&theme=dark&show_icons=true" alt="SandroS22" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandroS22&hide_border=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandroS22&hide_border=true&theme=dark&show_icons=true" alt="SandroS22"/>
 </p>
 <hr />
