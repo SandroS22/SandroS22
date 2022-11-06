@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou Sandro. Bem vindo ao meu GitHub!
+# 👋 Olá, eu sou Sandro. Bem vindo ao meu cantinho!
 - 👀 De olho no desenvolvimento back-end.
 - 🌱 No momento, me aprofundando na linguagem python.
-- 💞️ Atualmente estudando Sistemas de Informações na UFSC.
+- 💞️ Estudando Sistemas de Informações na UFSC.
 - 📫 Me encontre no [Linkedin](www.linkedin.com/in/sandro-santana-ribeiro-b5a489133)
 
 ## 📈 Estatísticas
