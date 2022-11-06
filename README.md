@@ -14,5 +14,4 @@
 </p>
 <hr />
 
-![Snake animation](https://github.com/SandroS22/Sandros22/blob/output/github-contribution-grid-snake.svg)
 ![github-user-contribution](https://user-images.githubusercontent.com/62521881/200201851-fb879c9d-49e8-4432-aaea-6c89c423da6b.svg)
