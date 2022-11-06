@@ -4,7 +4,7 @@
 - 💞️ Atualmente estudando Sistemas de Informações na UFSC.
 - 📫 Me encontre no [Linkedin](www.linkedin.com/in/sandro-santana-ribeiro-b5a489133)
 
-## Estatísticas
+## 📈 Estatísticas
 
 <br/>
 <p align="center">
