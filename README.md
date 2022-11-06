@@ -2,7 +2,7 @@
 - 👀 De olho no desenvolvimento back-end.
 - 🌱 No momento, me aprofundando na linguagem python.
 - 💞️ Estudando Sistemas de Informações na UFSC.
-- 📫 Me encontre no [Linkedin](www.linkedin.com/in/sandro-santana-ribeiro-b5a489133)![github-user-contribution](https://user-images.githubusercontent.com/62521881/200201851-fb879c9d-49e8-4432-aaea-6c89c423da6b.svg)
+- 📫 Me encontre no [Linkedin](www.linkedin.com/in/sandro-santana-ribeiro-b5a489133)
 
 
 ## 📈 Estatísticas
@@ -15,3 +15,4 @@
 <hr />
 
 ![Snake animation](https://github.com/SandroS22/Sandros22/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/62521881/200201851-fb879c9d-49e8-4432-aaea-6c89c423da6b.svg)
