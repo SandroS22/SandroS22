@@ -1,4 +1,4 @@
-# - 👋 Olá, eu sou Sandro. Bem vindo ao meu GitHub!
+# 👋 Olá, eu sou Sandro. Bem vindo ao meu GitHub!
 - 👀 De olho no desenvolvimento back-end.
 - 🌱 No momento, me aprofundando na linguagem python.
 - 💞️ Atualmente estudando Sistemas de Informações na UFSC.
