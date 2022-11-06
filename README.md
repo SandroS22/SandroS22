@@ -15,3 +15,5 @@
 <hr />
 
 ![github-user-contribution](https://user-images.githubusercontent.com/62521881/200201851-fb879c9d-49e8-4432-aaea-6c89c423da6b.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
