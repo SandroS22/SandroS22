@@ -14,4 +14,4 @@
 </p>
 <hr />
 
-![GitHub Snake dark](https://user-images.githubusercontent.com/62521881/200202772-a1aac16d-b403-4f11-a018-e9dd7cd7ffee.svg)
+![GitHub Snake dark](https://github.com/SandroS22/SandroS22/blob/output/github-contribution-grid-snake-dark.svg)
