@@ -15,5 +15,3 @@
 <hr />
 
 ![GitHub Snake dark](https://user-images.githubusercontent.com/62521881/200202772-a1aac16d-b403-4f11-a018-e9dd7cd7ffee.svg)
-
-
