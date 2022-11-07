@@ -4,7 +4,7 @@
 - 💞️ Estudando Sistemas de Informações na UFSC.
 
 ## Como me encontrar
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)
+[![Linkedin Badge](https://img.shields.io/badge/Sandro_Santana_Ribeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)](https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)
 
 
 ## 📈 Estatísticas
