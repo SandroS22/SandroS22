@@ -2,7 +2,9 @@
 - 👀 De olho no desenvolvimento back-end.
 - 🌱 No momento, me aprofundando na linguagem python.
 - 💞️ Estudando Sistemas de Informações na UFSC.
-- 📫 Me encontre no [Linkedin](www.linkedin.com/in/sandro-santana-ribeiro-b5a489133)
+
+## Como me encontrar
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)
 
 
 ## 📈 Estatísticas
