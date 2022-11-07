@@ -14,5 +14,6 @@
 </p>
 <hr />
 
-![github-user-contribution](https://user-images.githubusercontent.com/62521881/200201851-fb879c9d-49e8-4432-aaea-6c89c423da6b.svg)
+![GitHub Snake dark](https://user-images.githubusercontent.com/62521881/200202772-a1aac16d-b403-4f11-a018-e9dd7cd7ffee.svg)
+
 
