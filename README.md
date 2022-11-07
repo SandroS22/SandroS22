@@ -5,7 +5,7 @@
 
 ## Como me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/Sandro_Santana_Ribeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)](https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)
-[![Protonmail Badge](https://img.shields.io/badge/osandro@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=osandro@protonmail.com)](osandr@protonmail.com)
+[![Protonmail Badge](https://img.shields.io/badge/osandro@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=osandro@protonmail.com)](osandro@protonmail.com)
 
 
 ## 📈 Estatísticas
