@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Sandro. Bem vindo ao meu cantinho!
-[![Linkedin Badge](https://img.shields.io/badge/Sandro_Santana_Ribeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)](https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)
+[![Linkedin Badge](https://img.shields.io/badge/Sandro_Santana_Ribeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)](https://www.linkedin.com/in/sandro-santana-ribeiro-dev/)
 [![Protonmail Badge](https://img.shields.io/badge/osandro@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=osandro@protonmail.com)](mailto:osandro@protonmail.com)
 
 - 👀 De olho no desenvolvimento back-end.
