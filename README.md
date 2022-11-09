@@ -15,4 +15,4 @@
 </p>
 <hr />
 
-![GitHub Snake dark](https://github.com/SandroS22/SandroS22/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/SandroS22/SandroS22/blob/output/github-contribution-grid-snake.svg)
