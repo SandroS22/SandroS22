@@ -13,6 +13,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandroS22&count_private=true&theme=radical&title_color=ff3068&show_icons=true" alt="SandroS22" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandroS22&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="SandroS22"/>
 </p>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroS22&layout=compact&langs_count=7&theme=radical&title_color=ff3068&show_icons=true"/>
+  </p>
 <hr />
 
 ![Snake animation](https://github.com/SandroS22/SandroS22/blob/output/github-contribution-grid-snake.svg)
