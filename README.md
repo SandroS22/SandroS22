@@ -4,7 +4,7 @@
 
 - 👀 De olho no desenvolvimento back-end.
 - 🌱 No momento, me aprofundando na linguagem python.
-- 💞️ Estudando Sistemas de Informações na UFSC.
+- 📚 Sistemas de Informações - UFSC
 
 ## 📈 Estatísticas
 
