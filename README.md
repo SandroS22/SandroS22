@@ -3,7 +3,7 @@
 [![Protonmail Badge](https://img.shields.io/badge/osandro@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=osandro@protonmail.com)](mailto:osandro@protonmail.com)
 
 - 👀 De olho no desenvolvimento back-end.
-- 🌱 No momento, me aprofundando na linguagem python.
+- 🌱 Desenvolvedor Java
 - 📚 Sistemas de Informações - UFSC
 
 ## 📈 Estatísticas
