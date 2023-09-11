@@ -4,6 +4,7 @@
 
 - 👀 De olho no desenvolvimento back-end.
 - 🌱 Desenvolvedor Java
+- 📚 Atualmente focando em Spring Boot
 - 📚 Sistemas de Informações - UFSC
 
 ## 📈 Estatísticas
