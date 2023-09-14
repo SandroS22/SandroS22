@@ -1,11 +1,17 @@
-# 👋 Olá, eu sou Sandro. Bem vindo ao meu cantinho!
+# 👋 Olá, meu nome é Sandro e seja bem vindo a meu perfil!!
 [![Linkedin Badge](https://img.shields.io/badge/Sandro_Santana_Ribeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)](https://www.linkedin.com/in/sandro-santana-ribeiro-dev/)
 [![Protonmail Badge](https://img.shields.io/badge/osandro@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=osandro@protonmail.com)](mailto:osandro@protonmail.com)
+[![Gmail](https://img.shields.io/badge/santanaribeiro2002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santanaribeiro2002@gmail.com)
 
-- 👀 De olho no desenvolvimento back-end.
-- 🌱 Desenvolvedor Java
-- 📚 Atualmente focando em Spring Boot
-- 📚 Sistemas de Informações - UFSC
+ Atualmente trabalhando com desenvolvimento Java e cursando sistemas de informação na Universidade Federal de Santa Catarina(UFSC).
+ Por aqui você irá encontrar tudo o que me der na telha de desenvolve, e talvez alguns projetos de faculdade aqui e alí, mas em geral serão projetos próprios que me interessar na semana.
+ 
+  Agradeço o interesse no meu perfil, e fique a vontade, faça um tour. Meus contatos estão logo alí em cima.
+
+
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+ 
 
 ## 📈 Estatísticas
 
