@@ -7,7 +7,7 @@
  Atualmente trabalhando com desenvolvimento Java e cursando sistemas de informação na Universidade Federal de Santa Catarina(UFSC).
  Por aqui você irá encontrar tudo o que me der na telha de desenvolve, e talvez alguns projetos de faculdade aqui e alí, mas em geral serão projetos próprios que me interessar na semana.
  
-  Agradeço o interesse no meu perfil, e fique a vontade, faça um tour. Meus contatos estão logo alí em cima.
+Fique a vontade, faça um tour. Meus contatos estão logo alí em cima.
 
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
