@@ -1,7 +1,7 @@
 # 👋 Olá, meu nome é Sandro e seja bem vindo a meu perfil!! <img src="https://komarev.com/ghpvc/?username=SandrS22&label=Profile%20views&color=610eb4&style=flat" alt="SandroS22" />
 
 [![Linkedin Badge](https://img.shields.io/badge/Sandro_Santana_Ribeiro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-santana-ribeiro-b5a489133/)](https://www.linkedin.com/in/sandro-santana-ribeiro-dev/)
-[![Protonmail Badge](https://img.shields.io/badge/PROTONMAI-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=osandro@protonmail.com)](mailto:osandro@protonmail.com)
+[![Protonmail Badge](https://img.shields.io/badge/PROTONMAIL-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=osandro@protonmail.com)](mailto:osandro@protonmail.com)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santanaribeiro2002@gmail.com)
 
  Atualmente trabalhando com desenvolvimento Java e cursando sistemas de informação na Universidade Federal de Santa Catarina(UFSC).
