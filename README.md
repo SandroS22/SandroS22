@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santanaribeiro2002@gmail.com)
 
  Atualmente trabalhando com desenvolvimento Java e cursando sistemas de informação na Universidade Federal de Santa Catarina(UFSC).
- Por aqui você irá encontrar tudo o que me der na telha de desenvolve, e talvez alguns projetos de faculdade aqui e alí, mas em geral serão projetos próprios que me interessar na semana.
+ Por aqui você irá encontrar tudo o que me der na telha de desenvolver, e talvez alguns projetos de faculdade aqui e alí, mas em geral serão projetos próprios que me interessar na semana.
  
 Fique a vontade, faça um tour. Meus contatos estão logo alí em cima.
 
