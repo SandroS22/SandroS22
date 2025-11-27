@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sandro-santana-dev/" target="_blank">
      <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Linkedin Logo" width="16">
   </a> 
-   <a href="mailto:santanaribeiro2002@gmail.com" target="_blank">
+   <a href="mailto:osandrosr@gmail.com" target="_blank">
      <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail Logo" width="16">
   </a> 
 </div>
